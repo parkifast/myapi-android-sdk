@@ -1,0 +1,3 @@
+rootProject.name='myapi SDK demo'
+include ':app'
+include ':myapisdk'
