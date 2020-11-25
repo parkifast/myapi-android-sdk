@@ -1,5 +1,5 @@
-# myapi-android-sdk
-Android SDK to ease interaction with myapi API suite.
+# mymappi-android-sdk
+Android SDK to ease interaction with mymappi API suite.
 
 # Getting Started
 
